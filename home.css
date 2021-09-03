@@ -171,6 +171,33 @@ h3{
     font-weight: 600;
     margin: 10px 0;
 }
+a:link {
+    color: rgb(0, 0, 0);
+  }
+  a:visited {
+    color: rgb(0, 0, 0);
+  }
+  a:hover {
+    color: rgb(0, 149, 194);
+  }
+  a:active {
+    color: rgb(0, 0, 0);
+  }
+  :link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
 .destination-col:hover{
     box-shadow: 0 0 20px 0px rgba(37, 19, 43, 0.637);
 }
