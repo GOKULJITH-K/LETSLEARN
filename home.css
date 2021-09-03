@@ -134,7 +134,8 @@ nav .bi{
 .nav-links ul{
     padding: 30px;
 }
-
+.destination-col video{
+    position: relative;
 }
 }
 .destinations{
@@ -146,7 +147,7 @@ nav .bi{
 h1{
     font-size: 36px;
     font-weight: 600;
-    color: rgb(7, 138, 94);
+    color: rgb(1, 122, 66);
 }
 p{
     color: cadetblue;
