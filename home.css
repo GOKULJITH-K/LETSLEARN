@@ -134,6 +134,8 @@ nav .bi{
 .nav-links ul{
     padding: 30px;
 }
+
+}
 }
 .destinations{
     width: 80%;
@@ -144,6 +146,7 @@ nav .bi{
 h1{
     font-size: 36px;
     font-weight: 600;
+    color: rgb(7, 138, 94);
 }
 p{
     color: cadetblue;
