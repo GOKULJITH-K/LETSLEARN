@@ -85,6 +85,7 @@ p{
     padding: 20px 12px;
     box-sizing: border-box;
     transition: .5s;
+    box-shadow: 0 0 20px 0px rgba(37, 19, 43, 0.637);
 }
 h3{
     text-align: center;
